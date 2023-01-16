@@ -9,6 +9,7 @@ members = [
     "cv-sfm",
     "akaze",
     "eight-point",
+	"homography-estimator",
     "lambda-twist",
     "nister-stewenius",
     "vslam-sandbox",

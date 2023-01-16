@@ -9,8 +9,10 @@
 extern crate alloc;
 
 mod essential;
+mod homography;
 
 pub use essential::*;
+pub use homography::*;
 
 use cv_core::{
     nalgebra::{Matrix3, Point2, UnitVector3, Vector2},
